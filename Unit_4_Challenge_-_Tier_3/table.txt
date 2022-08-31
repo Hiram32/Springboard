@@ -1,0 +1,17 @@
+      London Borough    Ratio       London Borough    Ratio
+             Hackney 0.161335        Tower Hamlets 0.216137
+      Waltham Forest 0.171387            Redbridge 0.223655
+           Southwark 0.181275               Barnet 0.229453
+            Lewisham 0.183512             Havering 0.231202
+              Newham 0.188488               Ealing 0.231940
+      City of London 0.188622 Kingston upon Thames 0.234162
+            Haringey 0.194756              Enfield 0.234551
+Kensington & Chelsea 0.196755               Bexley 0.235351
+             Lambeth 0.201704              Croydon 0.238033
+              Camden 0.202620           Hillingdon 0.238080
+  Barking & Dagenham 0.204223 Hammersmith & Fulham 0.241674
+               Brent 0.204309               Sutton 0.242806
+           Islington 0.206439              Bromley 0.244213
+           Greenwich 0.209950               Harrow 0.246354
+          Wandsworth 0.210185 Richmond upon Thames 0.249678
+              Merton 0.210914             Hounslow 0.251483
