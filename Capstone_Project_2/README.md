@@ -1,2 +1,2 @@
-Capstone Project 2
+# Capstone Project 2
 The aim of this project is to develop a machine learning model that predicts the incidence of Coronary Artery Disease (CAD) on individuals based on their medical history and lifestyle behaviours. The data comes from the Centers for Disease Control and Prevention's (CDC) Behavioral Risk Factor Surveillance System (BFRSS), a yearly telephone survey that collects data on risk factors and health-related behaviours from individuals in all 50 states of the United States, as well as from the District of Columbia and three US territories.
